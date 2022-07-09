@@ -1,5 +1,0 @@
-Folder that contains the FGM tables for the cases analized in the master which are: 
-- 4D Hydrogen table for diffusion flames including differential diffusion using the FGM approach.  
-- 6D Dutch Natural gas table using the DA-FGM approach proposed by Xu-Huang during his PhD at TU Delft.
-
-both tables were created using CHEM1D. 
