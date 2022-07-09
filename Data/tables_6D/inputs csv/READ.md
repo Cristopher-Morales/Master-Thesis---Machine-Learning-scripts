@@ -1,1 +1,1 @@
-The data files are more that 25 MB, therefore they cannot be uploaded in .csv format. A program for transforming table in .dat format to .csv format will be upoladed soon.
+The data file which contains the inputs in a single file is more that 25 MB, therefore it cannot be uploaded in .csv format. A program for arraging together the inputs in a single file will de uploaded soon.
