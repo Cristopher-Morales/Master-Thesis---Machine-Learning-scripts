@@ -35,8 +35,8 @@ The main objective of this work is the development and analysis of **Artificial 
 The theoretical background of the lookup tables and combustion modelling approaches used in this repository are detailed in my Master’s thesis:
 
 **Cristopher Morales**,  
-*Machine Learning-Based Lookup Tables for Numerical Simulations of Turbulent Combustion*,  
-TU Delft, 2022.  
+*Using Artificial Intelligence for turbulent combustion modelling: Simplifying the conventional lookup tables*,  
+TU Delft, 2021.  
 Available at:  
 https://repository.tudelft.nl/islandora/object/uuid:0e4db0e6-1852-4346-ad25-11f3eed9d0bd?collection=education
 
